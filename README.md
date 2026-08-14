@@ -9,7 +9,6 @@ Most of my work is private (ventures, client systems, VPS ops). What is public h
 | Repo | What it is |
 |------|------------|
 | [ctrlc](https://github.com/ActArtech/ctrlc) | React **section packs** from a page you have rights to analyze. Dual export: natural language + multi-file code. Not an HTML scraper. |
-| [advoi-system](https://github.com/ActArtech/advoi-system) | Voice-first personal OS sketch (LiveKit / Pipecat verticals + shared services). Early, public as architecture, not as a polished product. |
 
 ## Upstream I actually ship into
 
@@ -32,6 +31,4 @@ Forks of those repos exist on this account as working copies. Prefer the upstrea
 
 **systembrief** is ready locally: strategy-frame architecture briefs as one light HTML file (intake YAML, locked runtime, lint + verify). It will land as its own repo when pushed.
 
-## Note on older public repos
-
-`beatframe-creator`, `dynamic-image-gallery`, `emotv1`, `ultr`, and the archived Replit tests (`rep1test`, `map`, `test-2-pharm`) are leftover experiments. They do not represent current work.
+Older experiments and internal systems stay private. The forks above are working copies; prefer the upstream links.

@@ -32,14 +32,15 @@ FinTech · HealthTech · Enterprise SaaS · AI products · Place systems
 
 <div align="center">
 
-[Website](https://alaaalmallah.com) · [CtrlC](https://github.com/ActArtech/ctrlc)
+[Website](https://alaaalmallah.com) · [CtrlC](https://github.com/ActArtech/ctrlc) · [systembrief](https://github.com/ActArtech/systembrief)
 
 </div>
 
 <details>
 <summary>Open work on this account</summary>
 
-- [ctrlc](https://github.com/ActArtech/ctrlc) — React section packs (natural language + multi-file code). Not an HTML scraper.
+- [ctrlc](https://github.com/ActArtech/ctrlc) - React section packs (natural language + multi-file code). Not an HTML scraper.
+- [systembrief](https://github.com/ActArtech/systembrief) - Strategy-first architecture briefs as one light HTML file.
 - Upstream: [diagram-design](https://github.com/cathrynlavery/diagram-design) (merged sequence fragments), [opencode-loop](https://github.com/ByBrawe/opencode-loop) (Windows-safe session writes), [pascalorg/editor](https://github.com/pascalorg/editor) (open PR).
 
 Internal products stay private.

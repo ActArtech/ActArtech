@@ -33,8 +33,7 @@ FinTech · HealthTech · Enterprise SaaS · AI products · Place systems
 
 | Repo | What it is |
 |------|------------|
-| **[CtrlBeat](https://github.com/ActArtech/CtrlBeat)** | Beat-synced video editing on Windows. Beats panel, visualizer, ASCII overlays, bake-to-export. Built on Concat / WolfCut. |
-| **[Concat](https://github.com/ActArtech/Concat)** | Fork of the open CapCut replacement (upstream PR branches for freeze / duplicate / fit). |
+| **[CtrlBeat](https://github.com/ActArtech/CtrlBeat)** | Beat-synced video editing on Windows. Beats panel, visualizer, ASCII overlays, bake-to-export. |
 | **[ctrlc](https://github.com/ActArtech/ctrlc)** | Copy page sections as React components. SectionPack dual export (natural language + code). |
 | **[systembrief](https://github.com/ActArtech/systembrief)** | Strategy-first architecture briefs as one self-contained light HTML file. |
 
@@ -47,9 +46,6 @@ FinTech · HealthTech · Enterprise SaaS · AI products · Place systems
 | [flashcodersread](https://github.com/ActArtech/flashcodersread) | RSVP + news-ticker speed reader for the OpenCode TUI bottom bar. |
 | [justified-gallery](https://github.com/ActArtech/justified-gallery) | Justified photo gallery layout (zero-dep core + React). |
 | [diagram-design](https://github.com/ActArtech/diagram-design) | Editorial diagram types for Claude Code (self-contained HTML + SVG). |
-| [opencode-loop](https://github.com/ActArtech/opencode-loop) | Claude Code style auto-continue for OpenCode. |
-| [spaces-docs](https://github.com/ActArtech/spaces-docs) | Spaces Studio operational docs. |
-| [editor](https://github.com/ActArtech/editor) | Create and share 3D architectural projects. |
 
 Internal products stay private.
 

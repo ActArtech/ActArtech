@@ -8,7 +8,7 @@ I keep strategy, design, engineering, and AI in one senior loop, so what ships s
 Systems that hold after launch.  
 Not demos. Not theater.
 
-[alaaalmallah.com](https://alaaalmallah.com) · [Book a call](https://alaaalmallah.com)
+[alaaalmallah.com](https://alaaalmallah.com) | [Book a call](https://alaaalmallah.com)
 
 </div>
 
@@ -23,7 +23,7 @@ I work with founders and product teams who need clearer direction and stronger e
 - Advisory when you already have a team
 
 **Where the work lands**  
-FinTech · HealthTech · Enterprise SaaS · AI products · Place systems
+FinTech | HealthTech | Enterprise SaaS | AI products | Place systems
 
 ---
 
@@ -51,12 +51,40 @@ Internal products stay private.
 
 ---
 
+## Contributions
+
+Open-source work on projects I do not own. Upstream links first; forks are for PR branches only.
+
+### [pascalorg/editor](https://github.com/pascalorg/editor) (Pascal Editor)
+
+3D building editor (React Three Fiber / WebGPU). Contributor, not maintainer.
+
+- Open: [core: shared pure plan-footprint math for spatial-grid and MCP](https://github.com/pascalorg/editor/pull/600)
+- [editor: session multi-select groups (Ctrl+G)](https://github.com/pascalorg/editor/pull/571)
+- [editor: light WebGPU preview and /editor scene redirect](https://github.com/pascalorg/editor/pull/570)
+- [mcp: layout clearance for doors and item overlaps](https://github.com/pascalorg/editor/pull/569)
+
+### [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design)
+
+Editorial diagram types for Claude Code.
+
+- [feat(sequence): combined fragments (alt/opt/loop) + OAuth example](https://github.com/cathrynlavery/diagram-design/pull/13)
+- [fix(sequence): dash OAuth returns and align type-sequence docs](https://github.com/cathrynlavery/diagram-design/pull/14)
+
+### [ByBrawe/opencode-loop](https://github.com/ByBrawe/opencode-loop)
+
+Claude Code style auto-continue for OpenCode.
+
+- [fix: Windows-safe atomic session state writes (EPERM)](https://github.com/ByBrawe/opencode-loop/pull/5)
+
+---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,docker,tailwind,python,rust" alt="TypeScript, React, Next.js, Node.js, Docker, Tailwind, Python, Rust" />
 </p>
 
 <div align="center">
 
-[Website](https://alaaalmallah.com) · [CtrlBeat](https://github.com/ActArtech/CtrlBeat) · [ctrlc](https://github.com/ActArtech/ctrlc) · [systembrief](https://github.com/ActArtech/systembrief)
+[Website](https://alaaalmallah.com) | [CtrlBeat](https://github.com/ActArtech/CtrlBeat) | [ctrlc](https://github.com/ActArtech/ctrlc) | [systembrief](https://github.com/ActArtech/systembrief)
 
 </div>

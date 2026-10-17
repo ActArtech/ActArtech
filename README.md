@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=A0A0A0&center=true&vCenter=true&width=720&lines=I+ship+systems+founders+can+run;One+loop.+Strategy.+Design.+Code.+AI)](https://git.io/typing-svg)
+# Alaa Almallah
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=A0A0A0&center=true&vCenter=true&width=720&lines=I+ship+systems+founders+can+run;One+loop.+Strategy.+Design.+Code.+AI)](https://github.com/ActArtech)
 
 **Most products break in the handoffs.**  
 I keep strategy, design, engineering, and AI in one senior loop, so what ships still matches what was decided.
@@ -8,28 +10,14 @@ I keep strategy, design, engineering, and AI in one senior loop, so what ships s
 Systems that hold after launch.  
 Not demos. Not theater.
 
-[alaaalmallah.com](https://alaaalmallah.com) | [Book a call](https://alaaalmallah.com)
+[![Website](https://img.shields.io/badge/website-alaaalmallah.com-111111?style=for-the-badge&labelColor=000000)](https://alaaalmallah.com)
+[![Book a call](https://img.shields.io/badge/book_a_call-calendly-2563EB?style=for-the-badge&labelColor=000000)](https://calendly.com/alaa-almallah/call)
 
 </div>
 
 ---
 
-I work with founders and product teams who need clearer direction and stronger execution in one place.
-
-**What usually happens**
-
-- Focus sprint (2-4 weeks) on one critical path
-- Build engagement through a launch milestone
-- Advisory when you already have a team
-
-**Where the work lands**  
-FinTech | HealthTech | Enterprise SaaS | AI products | Place systems
-
----
-
-## Public repos
-
-### Featured
+## Products
 
 | Repo | What it is |
 |------|------------|
@@ -37,25 +25,17 @@ FinTech | HealthTech | Enterprise SaaS | AI products | Place systems
 | **[ctrlc](https://github.com/ActArtech/ctrlc)** | Copy page sections as React components. SectionPack dual export (natural language + code). |
 | **[systembrief](https://github.com/ActArtech/systembrief)** | Strategy-first architecture briefs as one self-contained light HTML file. |
 
-### Tools and experiments
-
-| Repo | What it is |
-|------|------------|
-| [opportuner](https://github.com/ActArtech/opportuner) | Context value first, better options second, plans last. Agent skill. |
-| [mapcmd](https://github.com/ActArtech/mapcmd) | Structure + value map CLI (`next` / `gaps` / `impact` / `why`). |
-| [flashcodersread](https://github.com/ActArtech/flashcodersread) | RSVP + news-ticker speed reader for the OpenCode TUI bottom bar. |
-| [justified-gallery](https://github.com/ActArtech/justified-gallery) | Justified photo gallery layout (zero-dep core + React). |
-| [diagram-design](https://github.com/ActArtech/diagram-design) | Editorial diagram types for Claude Code (self-contained HTML + SVG). |
+[Download CtrlBeat for Windows](https://github.com/ActArtech/CtrlBeat/releases/latest) — local, no watermark, no account.
 
 Internal products stay private.
 
 ---
 
-## Contributions
+## Open-source contributions
 
-Open-source work on projects I do not own. Upstream links first; forks are for PR branches only.
+Work on projects I do not own. Forks are PR branches only; the work lives upstream.
 
-### [pascalorg/editor](https://github.com/pascalorg/editor) (Pascal Editor)
+### [pascalorg/editor](https://github.com/pascalorg/editor)
 
 3D building editor (React Three Fiber / WebGPU). Contributor, not maintainer.
 
@@ -79,12 +59,34 @@ Claude Code style auto-continue for OpenCode.
 
 ---
 
+## Working together
+
+I work with founders and product teams who need clearer direction and stronger execution in one place.
+
+- **Focus sprint** — 2–4 weeks on one critical path
+- **Build** — scoped through a launch milestone
+- **Advisory** — when you already have a team
+
+Where the work lands: FinTech | HealthTech | Enterprise SaaS | AI products | Place systems
+
+---
+
+## Tools and experiments
+
+- [opportuner](https://github.com/ActArtech/opportuner) — context value first, better options second, plans last. Agent skill.
+- [mapcmd](https://github.com/ActArtech/mapcmd) — structure + value map CLI (`next` / `gaps` / `impact` / `why`).
+- [flashcodersread](https://github.com/ActArtech/flashcodersread) — RSVP + news-ticker speed reader for the OpenCode TUI bottom bar.
+- [justified-gallery](https://github.com/ActArtech/justified-gallery) — justified photo gallery layout (zero-dep core + React).
+- [diagram-design](https://github.com/ActArtech/diagram-design) — editorial diagram types for Claude Code (self-contained HTML + SVG).
+
+---
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,docker,tailwind,python,rust" alt="TypeScript, React, Next.js, Node.js, Docker, Tailwind, Python, Rust" />
 </p>
 
 <div align="center">
 
-[Website](https://alaaalmallah.com) | [CtrlBeat](https://github.com/ActArtech/CtrlBeat) | [ctrlc](https://github.com/ActArtech/ctrlc) | [systembrief](https://github.com/ActArtech/systembrief)
+[Website](https://alaaalmallah.com) · [Book a discovery call](https://calendly.com/alaa-almallah/call) · [hello@alaaalmallah.com](mailto:hello@alaaalmallah.com)
 
 </div>

@@ -21,6 +21,7 @@ Not demos. Not theater.
 
 | Repo | What it is |
 |------|------------|
+| **[obsidbrain](https://github.com/ActArtech/obsidbrain)** | Fractal knowledge maps for Obsidian + Excalidraw. Stable positions, real-wikilink arrows, dive navigation. |
 | **[CtrlBeat](https://github.com/ActArtech/CtrlBeat)** | Beat-synced video editing on Windows. Beats panel, visualizer, ASCII overlays, bake-to-export. |
 | **[ctrlc](https://github.com/ActArtech/ctrlc)** | Copy page sections as React components. SectionPack dual export (natural language + code). |
 | **[systembrief](https://github.com/ActArtech/systembrief)** | Strategy-first architecture briefs as one self-contained light HTML file. |

@@ -21,12 +21,12 @@ Not demos. Not theater.
 
 | Repo | What it is |
 |------|------------|
-| **[obsidbrain](https://github.com/ActArtech/obsidbrain)** | Fractal knowledge maps for Obsidian + Excalidraw. Stable positions, real-wikilink arrows, dive navigation. |
-| **[CtrlBeat](https://github.com/ActArtech/CtrlBeat)** | Beat-synced video editing on Windows. Beats panel, visualizer, ASCII overlays, bake-to-export. |
-| **[ctrlc](https://github.com/ActArtech/ctrlc)** | Copy page sections as React components. SectionPack dual export (natural language + code). |
-| **[systembrief](https://github.com/ActArtech/systembrief)** | Strategy-first architecture briefs as one self-contained light HTML file. |
+| **[obsidbrain](https://github.com/ActArtech/obsidbrain)** | Fractal knowledge maps for Obsidian + Excalidraw. Folders become zoomable maps, arrows come from real wikilinks, positions never shift. |
+| **[CtrlBeat](https://github.com/ActArtech/CtrlBeat)** | Beat-synced video editing on Windows. Detect beats, place clips on the grid, bake visualizer and ASCII overlays, export locally. |
+| **[ctrlc](https://github.com/ActArtech/ctrlc)** | Copy page sections as React components. SectionPack exports each section as a written brief and as working code. |
+| **[systembrief](https://github.com/ActArtech/systembrief)** | Strategy-first architecture briefs as one self-contained HTML file. Open it anywhere, share it with anyone. |
 
-[Download CtrlBeat for Windows](https://github.com/ActArtech/CtrlBeat/releases/latest) — local, no watermark, no account.
+[Download CtrlBeat for Windows](https://github.com/ActArtech/CtrlBeat/releases/latest): local, no watermark, no account.
 
 Internal products stay private.
 
@@ -64,9 +64,9 @@ Claude Code style auto-continue for OpenCode.
 
 I work with founders and product teams who need clearer direction and stronger execution in one place.
 
-- **Focus sprint** — 2–4 weeks on one critical path
-- **Build** — scoped through a launch milestone
-- **Advisory** — when you already have a team
+- **Focus sprint:** 2 to 4 weeks on one critical path
+- **Build:** scoped through a launch milestone
+- **Advisory:** when you already have a team
 
 Where the work lands: FinTech | HealthTech | Enterprise SaaS | AI products | Place systems
 
@@ -74,11 +74,11 @@ Where the work lands: FinTech | HealthTech | Enterprise SaaS | AI products | Pla
 
 ## Tools and experiments
 
-- [opportuner](https://github.com/ActArtech/opportuner) — context value first, better options second, plans last. Agent skill.
-- [mapcmd](https://github.com/ActArtech/mapcmd) — structure + value map CLI (`next` / `gaps` / `impact` / `why`).
-- [flashcodersread](https://github.com/ActArtech/flashcodersread) — RSVP + news-ticker speed reader for the OpenCode TUI bottom bar.
-- [justified-gallery](https://github.com/ActArtech/justified-gallery) — justified photo gallery layout (zero-dep core + React).
-- [diagram-design](https://github.com/ActArtech/diagram-design) — editorial diagram types for Claude Code (self-contained HTML + SVG).
+- [opportuner](https://github.com/ActArtech/opportuner): context value first, better options second, plans last (agent skill).
+- [mapcmd](https://github.com/ActArtech/mapcmd): structure and value maps from the CLI (`next` / `gaps` / `impact` / `why`).
+- [flashcodersread](https://github.com/ActArtech/flashcodersread): RSVP and news-ticker speed reading in the OpenCode TUI bottom bar.
+- [justified-gallery](https://github.com/ActArtech/justified-gallery): justified photo gallery layout, zero-dependency core with a React wrapper.
+- [diagram-design](https://github.com/ActArtech/diagram-design): editorial diagram types for Claude Code (self-contained HTML + SVG).
 
 ---
 

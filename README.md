@@ -1,8 +1,9 @@
 <div align="center">
 
-# Alaa Almallah
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=900&color=A0A0A0&center=true&vCenter=true&width=720&lines=I+ship+systems+founders+can+run;One+loop.+Strategy.+Design.+Code.+AI)](https://github.com/ActArtech)
+
+> *The system now builds itself faster than we can design it. The bottleneck is your design decisions, not the code and that’s exactly where it should be.*
 
 **Most products break in the handoffs.**  
 I keep strategy, design, engineering, and AI in one senior loop, so what ships still matches what was decided.
